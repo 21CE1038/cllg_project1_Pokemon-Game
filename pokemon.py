@@ -32,7 +32,6 @@ class Pokemon:
         else:
             damage = ((2 * self.level / 5 + 2) * move.power * self.special_attack / opponent.special_defense) / 50 + 2
 
-        # Add type effectiveness, critical hits, etc. here
         return int(damage)
 
     def take_damage(self, damage):
