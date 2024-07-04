@@ -17,9 +17,9 @@ To start the game, navigate to the directory containing your `main.py` file and 
 
 It will show these options:
 Choose a move for Pikachu:
-##1. Thunderbolt (Electric type, 90 power, 100.0% accuracy)
+1. Thunderbolt (Electric type, 90 power, 100.0% accuracy)
 ###for attacking using thunderbolt
-##2. Tackle (Normal type, 40 power, 100.0% accuracy)
+2. Tackle (Normal type, 40 power, 100.0% accuracy)
 ###for tacklinh the attack 
 
 
